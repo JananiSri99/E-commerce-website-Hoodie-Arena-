@@ -1,0 +1,153 @@
+.navMinHeight {
+    min-height: 65px;
+}
+
+.secondNav {
+    height: 55px;
+    background: black;
+}
+
+.secondNavText {
+    color: white;
+    position: relative;
+    top: 25%;
+    left: 1%;
+}
+
+footer {
+    position: fixed; 
+    bottom: 0px;
+    width: 50%;  
+    height: 70px;
+    background-color: black;  
+    color: white;  
+}
+
+.footer-content {
+    height: 100%;
+}
+
+.secondNavfooter {
+    color: white;
+    position: relative;
+    top: 80%;
+    left: 1%;
+}
+
+.secondNavfooter2 {
+    color: white;
+    position: relative;
+    top: 80%;
+    left: 5%;
+}
+
+.secondNavfooter3 {
+    color: white;
+    position: relative;
+    top: 80%;
+    left: 10%;
+}
+
+.text-center{
+   margin-top: 12%;
+}
+
+.text-center_3{
+    margin-top: 45%;
+ }
+ 
+.trade-shape {
+     border-radius: 0.50rem;
+}
+
+.secondpagebody {
+    position: relative;
+    top: 75%;
+    left: 25%;
+}
+
+.liSize {
+     font-size: 22px;
+}
+
+.thirdpagebody {
+    position: relative;
+    top: 14%;
+    left: 40%;
+}
+
+.dropdownMenuLink {
+    position: relative;
+    margin-top: 75%;
+    left: 50%;
+}
+
+.form-format {
+    position: relative;
+    margin-top: 20;
+    padding-left: 30px;
+    
+}
+
+.contactstyle {
+    position: relative;
+    padding-left: 10px;
+    left:30px;
+}
+.m-top-18-px{
+    margin-top: 15px;
+}
+.m-top-150-px{
+    margin-top: 50px;
+}
+
+.m-top-25-px {
+    margin-top: 15px;
+}
+
+.logo-format_fb {
+    position: relative;
+    top: 80%;
+    left: 380%;
+    
+}
+.logo-format_insta {
+    position: relative;
+    top: 80%;
+    left: 400%;
+    
+}
+
+.format-trade {
+    position: relative;
+    left: 20%;
+    top:50%;
+}
+
+.thirdpagebody_3 {
+    position: relative;
+    top: -30px;
+}
+
+.font-inc {
+    font-size: 20px;
+}
+
+.new-trade-css {
+    color:white;
+    border-style:solid;
+    border-radius: 5rem;
+    border-color: black;
+    text-decoration: none;
+}
+
+.trade-now-css {
+    top: 20px;
+    color:black;
+    text-decoration: none;
+    border-style: solid;
+    border-radius: 5rem;
+    border-spacing: 10cm;
+    position: relative;
+    
+}
